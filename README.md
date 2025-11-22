@@ -1,6 +1,11 @@
 # gtfread
 
 A microscopic library to read GTF (Gene Transfer Format) files.
+
+```sh
+pip install gtfread
+```
+
 <!-- 
 Takes some inspiration from [pycli](https://github.com/garenchan/pycli) although I didn't know 
 this existed before starting. This lib is even smaller than `pycli` and does not require any setup 
